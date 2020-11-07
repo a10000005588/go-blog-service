@@ -67,7 +67,7 @@ Database:
 
 ## 啟動方式
 
-須事先安裝golang > 1.11 版本 (因為使用Go Module建立該專案)
+須事先安裝golang > 1.11 版本 (因為本專案使用Go Module建立)
 以及MySQL資料庫做介接。
 
 ### 設定MYSQL資料庫
@@ -172,3 +172,7 @@ margin-bottom: 15px;
 詳情到該連結可查看：https://github.com/swaggo/swag/issues/209
 </div>
 
+## 參考
+
+《Go 语言编程之旅：一起用 Go 做项目》
+https://github.com/go-programming-tour-book
